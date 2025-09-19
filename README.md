@@ -1,1 +1,1 @@
-# web_solutions_2
+# javascript-libraries-and-frameworks
